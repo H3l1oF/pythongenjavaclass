@@ -1,2 +1,2 @@
 # pythongenjavaclass
-Python script create comp+lete java class
+Python script create complete java class
